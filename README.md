@@ -1,22 +1,19 @@
-# 100 Days of Python
+## 100 Days of Python
 
-Instructor: Dr Angela Yu
+- Instructor: Dr Angela Yu
 - Course: www.udemy.com/course/100-days-of-code/
-- Linkedin: www.linkedin.com/in/angela-yu-963a584b/
-- Twitter: twitter.com/yu_angela
-- App Brewery: linkedin.com/company/london-app-brewery/
 
-## Basic Level
+### Basic Level
 
-### Day 1 
-### Status: Complete
-#### Notes:
+#### Day 1 
+- Status: Complete
+#- Notes:
 - keep in mind the indentation.
 - vscode.dev is a web version of the vscode editor. you can link it with github to load the repositories
 
-### Day 2 
-### Status: Pending
-#### Notes:
+#### Day 2 
+- Status: Pending
+- Notes:
 
 How to push content to github
 
@@ -39,143 +36,311 @@ git branch -M main
 git push -u origin main
 ```
 
-### Day 3 
-### Status: Pending
-#### Notes:
+#### Day 3 
+- Status: Pending
+- Notes:
 
-### Day 4 
-### Status: Pending
-#### Notes:
+#### Day 4 
+- Status: Pending
+- Notes:
 
-### Day 5 
-### Status: Pending
-#### Notes:
+#### Day 5 
+- Status: Pending
+- Notes:
 
-### Day 6 
-### Status: Pending
-#### Notes:
+#### Day 6 
+- Status: Pending
+- Notes:
 
-### Day 7 
-### Status: Pending
-#### Notes:
+#### Day 7 
+- Status: Pending
+- Notes:
 
-### Day 8 
-### Status: Pending
-#### Notes:
+#### Day 8 
+- Status: Pending
+- Notes:
 
-### Day 9 
-### Status: Pending
-#### Notes:
+#### Day 9 
+- Status: Pending
+- Notes:
 
-### Day 10 
-### Status: Pending
-#### Notes:
+#### Day 10 
+- Status: Pending
+- Notes:
 
-### Day 11 
-### Status: Pending
-#### Notes:
+#### Day 11 
+- Status: Pending
+- Notes:
 
-### Day 12 
-### Status: Pending
-#### Notes:
+#### Day 12 
+- Status: Pending
+- Notes:
 
-### Day 13 
-### Status: Pending
-#### Notes:
+#### Day 13 
+- Status: Pending
+- Notes:
 
-### Day 14 
-### Status: Pending
-#### Notes:
+#### Day 14 
+- Status: Pending
+- Notes:
 
 ## Intermediate Level:
 
-### Day 15 
-#### Notes:
+#### Day 15 
+- Notes:
 
-### Day 16 
-#### Notes:
+#### Day 16 
+- Notes:
 
-### Day 17 
-### Day 18 
-### Day 19 
-### Day 20 
-### Day 21 
-### Day 22 
-### Day 23 
-### Day 24 
-### Day 25 
-### Day 26 
-### Day 27 
-### Day 28 
-### Day 29 
-### Day 30 
-### Day 31 
-### Day 32 
-### Day 33 
-### Day 34 
-### Day 35 
-### Day 36 
-### Day 37 
-### Day 38 
-### Day 39 
-### Day 40 
-### Day 41 
-### Day 42 
-### Day 43 
-### Day 44 
-### Day 45 
-### Day 46 
-### Day 47 
-### Day 48 
-### Day 49 
-### Day 50 
-### Day 51 
-### Day 52 
-### Day 53 
-### Day 54 
-### Day 55 
-### Day 56 
-### Day 57 
-### Day 58 
-### Day 59 
-### Day 60 
-### Day 61 
-### Day 62 
-### Day 63 
-### Day 64 
-### Day 65 
-### Day 66 
-### Day 67 
-### Day 68 
-### Day 69 
-### Day 70 
-### Day 71 
-### Day 72 
-### Day 73 
-### Day 74 
-### Day 75 
-### Day 76 
-### Day 77 
-### Day 78 
-### Day 79 
-### Day 80 
-### Day 81 
-### Day 82 
-### Day 83 
-### Day 84 
-### Day 85 
-### Day 86 
-### Day 87 
-### Day 88 
-### Day 89 
-### Day 90 
-### Day 91 
-### Day 92 
-### Day 93 
-### Day 94 
-### Day 95 
-### Day 96 
-### Day 97 
-### Day 98 
-### Day 99 
-### Day 100 
+#### Day 17 
+- Status: Pending
+- Notes:
+#### Day 18 
+- Status: Pending
+- Notes:
+#### Day 19 
+- Status: Pending
+- Notes:
+#### Day 20 
+- Status: Pending
+- Notes:
+#### Day 21 
+- Status: Pending
+- Notes:
+#### Day 22 
+- Status: Pending
+- Notes:
+#### Day 23 
+- Status: Pending
+- Notes:
+#### Day 24 
+- Status: Pending
+- Notes:
+#### Day 25 
+- Status: Pending
+- Notes:
+#### Day 26 
+- Status: Pending
+- Notes:
+#### Day 27 
+- Status: Pending
+- Notes:
+#### Day 28 
+- Status: Pending
+- Notes:
+#### Day 29 
+- Status: Pending
+- Notes:
+#### Day 30 
+- Status: Pending
+- Notes:
+#### Day 31 
+- Status: Pending
+- Notes:
+#### Day 32 
+- Status: Pending
+- Notes:
+#### Day 33 
+- Status: Pending
+- Notes:
+#### Day 34 
+- Status: Pending
+- Notes:
+#### Day 35 
+- Status: Pending
+- Notes:
+#### Day 36 
+- Status: Pending
+- Notes:
+#### Day 37 
+- Status: Pending
+- Notes:
+#### Day 38 
+- Status: Pending
+- Notes:
+#### Day 39 
+- Status: Pending
+- Notes:
+#### Day 40 
+- Status: Pending
+- Notes:
+#### Day 41 
+- Status: Pending
+- Notes:
+#### Day 42 
+- Status: Pending
+- Notes:
+#### Day 43 
+- Status: Pending
+- Notes:
+#### Day 44 
+- Status: Pending
+- Notes:
+#### Day 45 
+- Status: Pending
+- Notes:
+#### Day 46 
+- Status: Pending
+- Notes:
+#### Day 47 
+- Status: Pending
+- Notes:
+#### Day 48 
+- Status: Pending
+- Notes:
+#### Day 49 
+- Status: Pending
+- Notes:
+#### Day 50 
+- Status: Pending
+- Notes:
+#### Day 51 
+- Status: Pending
+- Notes:
+#### Day 52 
+- Status: Pending
+- Notes:
+#### Day 53 
+- Status: Pending
+- Notes:
+#### Day 54 
+- Status: Pending
+- Notes:
+#### Day 55 
+- Status: Pending
+- Notes:
+#### Day 56 
+- Status: Pending
+- Notes:
+#### Day 57 
+- Status: Pending
+- Notes:
+#### Day 58 
+- Status: Pending
+- Notes:
+#### Day 59 
+- Status: Pending
+- Notes:
+#### Day 60 
+- Status: Pending
+- Notes:
+#### Day 61 
+- Status: Pending
+- Notes:
+#### Day 62 
+- Status: Pending
+- Notes:
+#### Day 63 
+- Status: Pending
+- Notes:
+#### Day 64 
+- Status: Pending
+- Notes:
+#### Day 65 
+- Status: Pending
+- Notes:
+#### Day 66 
+- Status: Pending
+- Notes:
+#### Day 67 
+- Status: Pending
+- Notes:
+#### Day 68 
+- Status: Pending
+- Notes:
+#### Day 69 
+- Status: Pending
+- Notes:
+#### Day 70 
+- Status: Pending
+- Notes:
+#### Day 71 
+- Status: Pending
+- Notes:
+#### Day 72 
+- Status: Pending
+- Notes:
+#### Day 73 
+- Status: Pending
+- Notes:
+#### Day 74 
+- Status: Pending
+- Notes:
+#### Day 75 
+- Status: Pending
+- Notes:
+#### Day 76 
+- Status: Pending
+- Notes:
+#### Day 77 
+- Status: Pending
+- Notes:
+#### Day 78 
+- Status: Pending
+- Notes:
+#### Day 79 
+- Status: Pending
+- Notes:
+#### Day 80 
+- Status: Pending
+- Notes:
+#### Day 81 
+- Status: Pending
+- Notes:
+#### Day 82 
+- Status: Pending
+- Notes:
+#### Day 83 
+- Status: Pending
+- Notes:
+#### Day 84 
+- Status: Pending
+- Notes:
+#### Day 85 
+- Status: Pending
+- Notes:
+#### Day 86 
+- Status: Pending
+- Notes:
+#### Day 87 
+- Status: Pending
+- Notes:
+#### Day 88 
+- Status: Pending
+- Notes:
+#### Day 89 
+- Status: Pending
+- Notes:
+#### Day 90 
+- Status: Pending
+- Notes:
+#### Day 91 
+- Status: Pending
+- Notes:
+#### Day 92 
+- Status: Pending
+- Notes:
+#### Day 93 
+- Status: Pending
+- Notes:
+#### Day 94 
+- Status: Pending
+- Notes:
+#### Day 95 
+- Status: Pending
+- Notes:
+#### Day 96 
+- Status: Pending
+- Notes:
+#### Day 97 
+- Status: Pending
+- Notes:
+#### Day 98 
+- Status: Pending
+- Notes:
+#### Day 99 
+- Status: Pending
+- Notes:
+#### Day 100 
+- Status: Pending
+- Notes:
