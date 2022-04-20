@@ -22,3 +22,29 @@
 
 ### Day 7 Exercise: 
 #### Day 7 Notes:
+
+### Day 8 Exercise: 
+#### Day 8 Notes:
+
+### Day 9 Exercise: 
+#### Day 9 Notes:
+
+### Day 10 Exercise: 
+#### Day 10 Notes:
+
+### Day 11 Exercise: 
+#### Day 11 Notes:
+
+### Day 12 Exercise: 
+#### Day 12 Notes:
+
+### Day 13 Exercise: 
+#### Day 13 Notes:
+
+### Day 14 Exercise: 
+#### Day 14 Notes:
+
+## Python Intermediate Level
+
+### Day 15 Exercise: 
+#### Day 15 Notes:
