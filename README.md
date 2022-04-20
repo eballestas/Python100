@@ -1,5 +1,7 @@
 # Python 100
 
+## Python Basic Level
+
 ### Day 1 Exercise: 
 #### Day 1 Notes:
 
