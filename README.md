@@ -1,7 +1,7 @@
 # 100 Days of Python
 
 Instructor: Dr Angela Yu
-- Course: https://www.udemy.com/course/100-days-of-code/
+- Course: www.udemy.com/course/100-days-of-code/
 - Linkedin: www.linkedin.com/in/angela-yu-963a584b/
 - Twitter: twitter.com/yu_angela
 - App Brewery: linkedin.com/company/london-app-brewery/
@@ -18,10 +18,11 @@ Instructor: Dr Angela Yu
 ### Status: Pending
 #### Notes:
 
-##### How to push content to github
+How to push content to github
 
+
+- …or create a new repository on the command line
 ```
-# …or create a new repository on the command line
 echo "# sandbox" >> README.md
 git init
 git add README.md
@@ -30,8 +31,9 @@ git branch -M main
 git remote add origin git@github.com:eballestas/sandbox.git
 git push -u origin main
 ```
+
+- …or push an existing repository from the command line
 ```
-#…or push an existing repository from the command line
 git remote add origin git@github.com:eballestas/sandbox.git
 git branch -M main
 git push -u origin main
