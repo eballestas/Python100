@@ -1,15 +1,18 @@
 ## 100 Days of Python- Instructor: Dr Angela Yu
-- Course: www.udemy.com/course/100-days-of-code/### Basic Level#### Day 1 
-- Status: Complete
+- Course: www.udemy.com/course/100-days-of-code/### Basic Level
 
 ## Basic Level Training.
 
 #### Day 1
+- Status: Complete
+
 - keep in mind the indentation.
 - vscode.dev is a web version of the vscode editor. you can link it with github to load the repositories#### Day 2 
 - Status: Pending
 
 #### Day 2
+- Status: Complete
+
 How to push content to github
 - …or create a new repository on the command line
 ```
