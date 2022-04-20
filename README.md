@@ -3,7 +3,11 @@
 ## Python Basic Level
 
 ### Day 1 Exercise: 
+Band Name Generator
+
 #### Day 1 Notes:
+- keep in mind the indentation.
+- vscode.dev is a web version of the vscode editor. you can link it with github to load the repositories
 
 ### Day 2 Exercise: 
 #### Day 2 Notes:
