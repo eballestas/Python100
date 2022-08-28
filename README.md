@@ -8,22 +8,22 @@ General Status of the course, along with dates of completion
 ### Basic Level Training.
 - Day 01 Status: Completed - April 20/2022
 - Day 02 Status: Completed - April 21/2022
-- Day 03 Status: Pending
-- Day 04 Status: 
-- Day 05 Status: 
-- Day 06 Status: 
-- Day 07 Status: 
-- Day 08 Status: 
-- Day 09 Status: 
-- Day 11 Status: 
-- Day 12 Status: 
-- Day 13 Status: 
-- Day 14 Status: 
+- Day 03 Status: Completed - August 28/2022
+- Day 04 Status: Completed - August 28/2022
+- Day 05 Status: Completed - August 28/2022
+- Day 06 Status: Completed - August 28/2022
+- Day 07 Status: Completed - August 28/2022
+- Day 08 Status: Completed - August 28/2022
+- Day 09 Status: Completed - August 28/2022
+- Day 11 Status: Completed - August 28/2022
+- Day 12 Status: Completed - August 28/2022
+- Day 13 Status: Completed - August 28/2022
+- Day 14 Status: Completed - August 28/2022
 
 ### Intermediate Level Training.
-- Day 15 Status: 
-- Day 16 Status: 
-- Day 17 Status: 
+- Day 15 Status: Completed - August 28/2022
+- Day 16 Status: Completed - August 28/2022
+- Day 17 Status: Completed - August 28/2022
 - Day 18 Status: 
 - Day 19 Status: 
 - Day 20 Status: 
