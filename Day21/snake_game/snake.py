@@ -8,7 +8,7 @@ UP = 90
 DOWN = 270
 RIGHT = 0
 LEFT = 180
-
+#adding blank comment
 
 class Snake:
 

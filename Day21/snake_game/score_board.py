@@ -1,5 +1,5 @@
 from turtle import Turtle
-
+#adding blank comment
 FONT = ("Consolas", 24, "normal")
 ALIGNMENT = "center"
 
