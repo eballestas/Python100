@@ -11,8 +11,6 @@ LEFT = 180
 #adding blank comment
 
 class Snake:
-class Snake:
-
     def __init__(self):
         self.segments = []
         self.create_snake()
