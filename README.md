@@ -24,11 +24,11 @@ General Status of the course, along with dates of completion
 - Day 15 Status: Completed - August 28/2022
 - Day 16 Status: Completed - August 28/2022
 - Day 17 Status: Completed - August 28/2022
-- Day 18 Status: Completed - September 1/2022
-- Day 19 Status: Completed - September 2/2022
-- Day 20 Status: Completed - September 5/2022
-- Day 21 Status: Completed - September 9/2022
-- Day 22 Status: 
+- Day 18 Status: Completed - September 01/2022
+- Day 19 Status: Completed - September 02/2022
+- Day 20 Status: Completed - September 05/2022
+- Day 21 Status: Completed - September 09/2022
+- Day 22 Status: Completed - September 15/2022
 - Day 23 Status: 
 - Day 24 Status: 
 - Day 25 Status: 
