@@ -12,10 +12,14 @@ screen.listen()
 turtle = Player()
 screen.onkey(turtle.go_up, "Up")
 
+car_list = []
+
+for x in range(4):
+    x = CarManager()
+    car_list.append(x)
+
 game_is_on = True
 while game_is_on:
     time.sleep(0.1)
     screen.update()
-
-
-
+    x.keep_walking()
