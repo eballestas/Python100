@@ -21,7 +21,7 @@ while game_on:
     answer_state = screen.textinput(title=f"{len(guesses)}/50 States correct", prompt="whats your state name")
     answer_state = answer_state.title()
 
-    guesses.append(new_item for item in list if condition else )
+    #guesses.append(new_item for item in list if condition else )
     # if answer_state == "Exit":
     #     break
     # else:
